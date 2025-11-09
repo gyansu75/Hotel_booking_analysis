@@ -1,6 +1,6 @@
 # Gaurav's Portfolio
 
-# [Project 1: Movie Recommendation System Model]()
+# [Project 1: Movie Recommendation System Model](DASH 1.pbix)
 
 This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
 
