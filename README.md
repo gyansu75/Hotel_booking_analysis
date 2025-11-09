@@ -1,8 +1,8 @@
 # Gaurav's Portfolio
 
-# [Project 1: Movie Recommendation System Model](https://github.com/gyansu75/My-Projects/blob/main/DASH%201.pbix)
+# [Project 1: Analytics Jobs Around the World Analysis](https://github.com/gyansu75/My-Projects/blob/main/DASH%201.pbix)
 
-This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
+This is a project I did for Analytics Protfolio, where I build a recommendation system for a movies dataset.
 
 * Data was taken from the movielens dataset 
 * The model uses both; content-based filtering techniques and collaborative filtering techniques. 
@@ -15,7 +15,7 @@ This is a project I did for my masters research paper, where I build a recommend
 ## Popular Movie Genres  
 ![]()
 
-# 📊 Data Analytics Portfolio
+# 📊 Gaurav's Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio!**  
 This repository showcases my projects, skills, and approaches in **data cleaning, analysis, visualization, and business insights** using tools like **Python, SQL, Excel, Power BI, and Tableau**.
