@@ -78,25 +78,29 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## 📈 Key Findings
 ![Alt Text](plot_2.png)
 
-1.The Bar graph shows the reservations that are canceled and those that are not. According to the Analysis performed we found out that approx 37 % of clients canceled their reservations,that is a key factor contributing to decline in hotel earnings ,though, the number of bookings were high enough.
+1. The Bar graph shows the reservations that are canceled and those that are not. According to the Analysis performed we found out that approx 37 % of clients canceled their reservations,that is a key factor contributing to decline in hotel earnings ,though, the number of bookings were high enough.
 
 ![Alt Text](plot_3.png)
-2.This shows in comparison to resort hotels, city hotels have more bookings, indicating that resort hotels have higher prices.
+
+2. This shows in comparison to resort hotels, city hotels have more bookings, indicating that resort hotels have higher prices.
 
 ![Alt Text](plot_4.png)
-3.The Line graph shows that,on certain days,the average daily rate for a city hotel is less than that of resort hotels and on some days it is less. This indicates that weekends and holidays may see price hikes in resort hotels' rates.
+
+3. The Line graph shows that,on certain days,the average daily rate for a city hotel is less than that of resort hotels and on some days it is less. This indicates that weekends and holidays may see price hikes in resort hotels' rates.
 
 ![Alt Text](plot_5.png)
-4.We developed the grouped Bar graph to the analyze the months with the highest and the lowest reservation levels according to reservation status. On close observation. we found out that, Highest number of reservations were recorded on non-winter months with comparetively low levels of cancellation with August as an outperformer for the whole year, than winter or cold-months with most level of cancellations in the month of January.This indicates the seasonal effect on Hotel Bookings.
+
+4. We developed the grouped Bar graph to the analyze the months with the highest and the lowest reservation levels according to reservation status. On close observation. we found out that, Highest number of reservations were recorded on non-winter months with comparetively low levels of cancellation with August as an outperformer for the whole year, than winter or cold-months with most level of cancellations in the month of January.This indicates the seasonal effect on Hotel Bookings.
 
 ![Alt Text](plot_6.png)
-5.This graph shows that extreme price levels lead to higher cancellations and Lower price levels encourage less number of cancellations. Therefore, cost is major factor while analyzing the hotel booking cancellations.
+
+5. This graph shows that extreme price levels lead to higher cancellations and Lower price levels encourage less number of cancellations. Therefore, cost is major factor while analyzing the hotel booking cancellations.
 
 6. Now let us find out, clients of which country are most likely to cancel their bookings.The Top country is the Pie Chart is Portugal with the highest number of cancellations.
 
 ![Alt Text](plot_7.png)
 
-7.Lets check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?
+7. Lets check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?
 Around 46 % Client come from Online Travel Agencies
 Whereas 27 % come from Groups
 Only 4 % clients directly book hotels by Visiting them and making reservations
@@ -114,13 +118,13 @@ This Justifies that higher prices lead to higher Cancellations.
 
 ## 🧠 Conclusion & Recommendations
 
-1.Cancellation rates rise with rise in price levels. To tackle this problem, hotels need to work on the pricing strategies and try to lower the rates on specific days or even give discount benefits to increase customer retention.
+1. Cancellation rates rise with rise in price levels. To tackle this problem, hotels need to work on the pricing strategies and try to lower the rates on specific days or even give discount benefits to increase customer retention.
 
-2.As the ratio of canceled to not canceled of Resort hotels is higher than City hotels on specific days so it is suggested that hotels should keep reasonable prices on holidays and weekends in order to reduce cancellations which will inturn increase the customer satisfaction.
+2. As the ratio of canceled to not canceled of Resort hotels is higher than City hotels on specific days so it is suggested that hotels should keep reasonable prices on holidays and weekends in order to reduce cancellations which will inturn increase the customer satisfaction.
 
-3.January and winter months should have adequate marketing campaigns with reasonable prices, as the cancellation levels are highest recorded for these months.
+3. January and winter months should have adequate marketing campaigns with reasonable prices, as the cancellation levels are highest recorded for these months.
 
-4.Hotels in Portugal must increase quality of their services and keep it up-to-date with the taste of people living there by conducting surveys and utilizing feedback from clients. This will increase customer satisfaction and generate higher earnings to the hotels.
+4. Hotels in Portugal must increase quality of their services and keep it up-to-date with the taste of people living there by conducting surveys and utilizing feedback from clients. This will increase customer satisfaction and generate higher earnings to the hotels.
 
 ---
 
