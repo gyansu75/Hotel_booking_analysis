@@ -64,8 +64,6 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## 🔍 Data Analysis & Insights
 ### Exploratory Analysis:
 - Booking and cancellation distribution.
-- ![Alt Text](plot_2.png)
-
 - Cancellations by hotel type, month, and lead time.
 - Impact of deposit type and market segment.
 - Relationship between special requests and cancellations.
@@ -78,7 +76,38 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ---
 
 ## 📈 Key Findings
-*(You can summarize your main insights here — e.g., higher cancellations for long lead time or no-deposit bookings.)*
+![Alt Text](plot_2.png)
+
+1.The Bar graph shows the reservations that are canceled and those that are not. According to the Analysis performed we found out that approx 37 % of clients canceled their reservations,that is a key factor contributing to decline in hotel earnings ,though, the number of bookings were high enough.
+
+![Alt Text](plot_3.png)
+2.This shows in comparison to resort hotels, city hotels have more bookings, indicating that resort hotels have higher prices.
+
+![Alt Text](plot_4.png)
+3.The Line graph shows that,on certain days,the average daily rate for a city hotel is less than that of resort hotels and on some days it is less. This indicates that weekends and holidays may see price hikes in resort hotels' rates.
+
+![Alt Text](plot_5.png)
+4.We developed the grouped Bar graph to the analyze the months with the highest and the lowest reservation levels according to reservation status. On close observation. we found out that, Highest number of reservations were recorded on non-winter months with comparetively low levels of cancellation with August as an outperformer for the whole year, than winter or cold-months with most level of cancellations in the month of January.This indicates the seasonal effect on Hotel Bookings.
+
+![Alt Text](plot_6.png)
+5.This graph shows that extreme price levels lead to higher cancellations and Lower price levels encourage less number of cancellations. Therefore, cost is major factor while analyzing the hotel booking cancellations.
+
+6. Now let us find out, clients of which country are most likely to cancel their bookings.The Top country is the Pie Chart is Portugal with the highest number of cancellations.
+![Alt Text](plot_7.png)
+
+7.Lets check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?
+Around 46 % Client come from Online Travel Agencies
+Whereas 27 % come from Groups
+Only 4 % clients directly book hotels by Visiting them and making reservations
+
+![Alt Text](plot_8.png)
+8. This Date has many missing informations so we cleaned,optimised and extracted only the consistent Data and created a Line graph which represents data from 2016 till 2017-August.
+
+![Alt Text](plot_9.png)
+This is the optimised Line graph we will use for further analysis.
+
+On close observation, we found out reservations are canceled when Average Daily Rate(ADR) is higher than Not canceled ADR,
+This Justifies that higher prices lead to higher Cancellations.
 
 ---
 
