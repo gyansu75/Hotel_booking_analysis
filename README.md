@@ -64,7 +64,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## 🔍 Data Analysis & Insights
 ### Exploratory Analysis:
 - Booking and cancellation distribution.
-- ![Alt Text](images/plot1.png)
+- ![Alt Text](plot_2.png)
 
 - Cancellations by hotel type, month, and lead time.
 - Impact of deposit type and market segment.
