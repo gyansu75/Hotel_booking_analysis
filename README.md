@@ -115,8 +115,11 @@ This Justifies that higher prices lead to higher Cancellations.
 ## 🧠 Conclusion & Recommendations
 
 1.Cancellation rates rise with rise in price levels. To tackle this problem, hotels need to work on the pricing strategies and try to lower the rates on specific days or even give discount benefits to increase customer retention.
+
 2.As the ratio of canceled to not canceled of Resort hotels is higher than City hotels on specific days so it is suggested that hotels should keep reasonable prices on holidays and weekends in order to reduce cancellations which will inturn increase the customer satisfaction.
+
 3.January and winter months should have adequate marketing campaigns with reasonable prices, as the cancellation levels are highest recorded for these months.
+
 4.Hotels in Portugal must increase quality of their services and keep it up-to-date with the taste of people living there by conducting surveys and utilizing feedback from clients. This will increase customer satisfaction and generate higher earnings to the hotels.
 
 ---
